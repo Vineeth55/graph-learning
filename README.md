@@ -14,26 +14,6 @@ The code is released under the terms of the [MIT license](LICENSE.txt).
 [glasso]: http://statweb.stanford.edu/~tibs/ftp/graph.pdf
 [dong]: http://web.media.mit.edu/~xdong/paper/icassp2015.pdf
 
-## Installation
-
-1. Clone this repository.
-
-   ```sh
-   git clone https://github.com/rodrigo-pena/graph-learning
-   cd graph-learning
-   ```
-
-2. Install the dependencies.
-   
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. Try the Jupyter notebooks.
-   
-   ```sh
-   jupyter notebook
-   ```
 
 ## Usage
 
